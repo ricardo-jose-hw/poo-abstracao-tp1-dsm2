@@ -2,10 +2,10 @@ package classe17a20;
 
 public class Politico {
 
-    String partido;
-    String cargoPolitico;
-    String faculdade;
-    String nivelComunicacao;
+    public String partido;
+    public String cargoPolitico;
+    public String faculdade;
+    public String nivelComunicacao;
 
     Politico (String partido, String cargoPolitico, String faculdade, String nivelComunicacao) {
         this.partido = partido;

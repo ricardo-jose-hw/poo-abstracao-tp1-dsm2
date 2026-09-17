@@ -1,10 +1,10 @@
 package classe5a8;
 
 public class Ator {
-    String expressao_facial;
-    int nivel_diccao;
-    int nivel_memoria;
-    int nivel_empatia_dramatica;
+    public String expressao_facial;
+    public int nivel_diccao;
+    public int nivel_memoria;
+    public int nivel_empatia_dramatica;
 
     public void DecorarTexto(){
         System.out.println("Lendo e decorando...");

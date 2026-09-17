@@ -3,10 +3,10 @@ package POO.src.classe17a20;
 import java.util.Random;
 
 public class Atleta {
-    int forca;
-    int resistencia;
-    int foco;
-    int modalidade;
+    public int forca;
+    public int resistencia;
+    public int foco;
+    public int modalidade;
 
     Atleta (int forca, int resistencia, int foco, int modalidade) {
         this.forca = forca;

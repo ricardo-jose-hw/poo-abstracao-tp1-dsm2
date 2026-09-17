@@ -1,10 +1,10 @@
 package classe5a8;
 
 public class Bombeiro {
-    int nivel_resistencia_fisica = 10;
-    int primeiro_socorros;
-    String dominio_nos;
-    int coragem;
+    public int nivel_resistencia_fisica = 10;
+    public int primeiro_socorros;
+    public String dominio_nos;
+    public int coragem;
 
     public void apagarIncendio(){
     System.out.println("Eu vou ajudar voces!");

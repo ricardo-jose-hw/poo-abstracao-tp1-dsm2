@@ -2,10 +2,10 @@ package classe17a20;
 
 public class Jornalista {
 
-    String Emissora;
-    String Faculdade;
-    String Idioma;
-    String NivelComunicação;
+    public String Emissora;
+    public String Faculdade;
+    public String Idioma;
+    public String NivelComunicação;
 
     Jornalista (String Emissora, String Faculdade, String Idioma, String NivelComunicação) {
         this.Emissora = Emissora;

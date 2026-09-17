@@ -2,10 +2,10 @@ package classe9a12;
 
 public class Juiz {
 
-    String nome;
-    int idade;
-    String numeroMatricula;
-    String varaAtuacao;
+    public String nome;
+    public int idade;
+    public String numeroMatricula;
+    public String varaAtuacao;
 
     public Juiz(String nome, int idade, String numeroMatricula, String varaAtuacao) {
         this.nome = nome;

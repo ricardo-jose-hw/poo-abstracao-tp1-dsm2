@@ -1,10 +1,10 @@
 package classe9a12;
 
 public class Motorista {
-	 	String nome;
-	    int idade;
-	    String numeroCnh;
-	    String categoriaCnh;
+	 	public String nome;
+		public int idade;
+	    public String numeroCnh;
+	    public String categoriaCnh;
 
 	    public Motorista(String nome, int idade, String numeroCnh, String categoriaCnh) {
 	        this.nome = nome;

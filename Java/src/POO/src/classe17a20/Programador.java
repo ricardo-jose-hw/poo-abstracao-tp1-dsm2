@@ -2,10 +2,10 @@ package POO.src.classe17a20;
 
 public class Programador {
 
-    String linguagemProgramacao;
-    String especializacao;
-    int anosExperiencia;
-    int nivelLogico;
+    public String linguagemProgramacao;
+    public String especializacao;
+    public int anosExperiencia;
+    public int nivelLogico;
 
     Programador (String linguagemProgramacao, String especializacao, int anosExperiencia, int nivelLogico) {
         this.linguagemProgramacao = linguagemProgramacao;
